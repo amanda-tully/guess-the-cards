@@ -1,4 +1,3 @@
-// src/components/modals/ResetLeaderboardModal.tsx
 import { Modal } from "./Modal";
 import styled from "styled-components";
 import { Button } from "../Button.tsx";
